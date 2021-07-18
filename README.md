@@ -1,3 +1,5 @@
+Welcome to my-project (or Nana's, anyway...) !
+
 ##### build the project
 
     ./gradlew build
